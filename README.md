@@ -1,4 +1,4 @@
-# Library Management System
+## Library Management System
 
 This project tackles the intricacies of efficiently managing loans from the local public library, providing a comprehensive system to streamline operations related to Patrons, Books, and Loans.
 
